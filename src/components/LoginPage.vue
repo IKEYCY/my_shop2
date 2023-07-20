@@ -82,8 +82,8 @@ export default {
   position: relative;
   width: 100%;
   height: 100%;
-  min-height: 670px;
-  max-width: 1400px;
+  min-height: 730px;
+  max-width: 1700px;
   padding: 25px;
   background-color: #ecf0f3;
   box-shadow: 10px 10px 10px #d1d9e6, -10px -10px 10px #f9f9f9;
@@ -174,8 +174,8 @@ export default {
     top: 0;
     left: 0;
     height: 100%;
-    width: 300px;
-    padding: 50px;
+    width: 400px;
+
     z-index: 999;
     transition: 1.25s;
     background-color: #ecf0f3;
